@@ -14,35 +14,18 @@
 
 Informatics fresh graduate with a passion for building scalable systems and intelligent applications. I love exploring the intersection of **cloud infrastructure**, **AI/ML**, and **modern development practices**. Always coding with a cup of coffee in hand ☕
 
-<div align="center">
-  
-  ✨ **Green is my color** | 🌱 **Growing every day** | 🎯 **Building the future**
-  
-</div>
-
 ---
 
 ## 🚀 What I'm Doing
 
-<<<<<<< HEAD
-| 🎯 | Focus Area |
-|---|---|
-| 🔭 | Building AI system projects |
-| 🌱 | Learning Cloud Computing, DevOps & scalable application design |
-| 🤖 | Exploring AI Systems & automation opportunities |
-| ☁️ | Diving deep into cloud technologies & infrastructure |
-| 💻 | Crafting web applications with modern tools |
-| 🧠 | Always curious about how systems work behind the scenes |
-=======
 | 🎯  | Focus Area                                                     |
 | --- | -------------------------------------------------------------- |
-| 🔭  | Building AI and multi-agent system projects                    |
+| 🔭  | Building AI system projects                                    |
 | 🌱  | Learning Cloud Computing, DevOps & scalable application design |
 | 🤖  | Exploring AI Systems & automation opportunities                |
 | ☁️  | Diving deep into cloud technologies & infrastructure           |
 | 💻  | Crafting web applications with modern tools                    |
 | 🧠  | Always curious about how systems work behind the scenes        |
->>>>>>> cc114a8 (ubah ke 3)
 
 ---
 
@@ -52,13 +35,12 @@ Informatics fresh graduate with a passion for building scalable systems and inte
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Cloud & DevOps**  
+**Cloud & DevOps**
 
-**AI & Data**  
+**AI & Data**
 
 **Web Development**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
