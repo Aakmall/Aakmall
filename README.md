@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 🟢 Hey, I'm Aakmall! 👋
+  # Hey, I'm Aakmall! 👋
   
   ```
   💻 Cloud Computing | 🤖 AI Systems | ☁️ DevOps | 🚀 Modern Web Development
