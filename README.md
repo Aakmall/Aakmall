@@ -1,4 +1,6 @@
-## Hi there 👋
+## Holla World 👋
+
+I'm an Informatics fresh graduate who is passionate about Cloud Computing, DevOps, AI Integration, and modern web development.
 
 <!--
 **Aakmall/Aakmall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
+
+- 🔭 I’m currently building AI and multi-agent system projects
+- 🌱 I’m currently learning Cloud Computing, DevOps, and scalable application development
+- 🤖 Interested in AI Systems and automation
+- ☁️ Exploring cloud technologies and infrastructure
+- 💻 Building web applications with modern tools and vibe coding
+- ⚡ Always curious about how systems work behind the scenes
