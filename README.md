@@ -24,6 +24,7 @@ Informatics fresh graduate with a passion for building scalable systems and inte
 
 ## 🚀 What I'm Doing
 
+<<<<<<< HEAD
 | 🎯 | Focus Area |
 |---|---|
 | 🔭 | Building AI system projects |
@@ -32,6 +33,16 @@ Informatics fresh graduate with a passion for building scalable systems and inte
 | ☁️ | Diving deep into cloud technologies & infrastructure |
 | 💻 | Crafting web applications with modern tools |
 | 🧠 | Always curious about how systems work behind the scenes |
+=======
+| 🎯  | Focus Area                                                     |
+| --- | -------------------------------------------------------------- |
+| 🔭  | Building AI and multi-agent system projects                    |
+| 🌱  | Learning Cloud Computing, DevOps & scalable application design |
+| 🤖  | Exploring AI Systems & automation opportunities                |
+| ☁️  | Diving deep into cloud technologies & infrastructure           |
+| 💻  | Crafting web applications with modern tools                    |
+| 🧠  | Always curious about how systems work behind the scenes        |
+>>>>>>> cc114a8 (ubah ke 3)
 
 ---
 
@@ -89,7 +100,3 @@ Informatics fresh graduate with a passion for building scalable systems and inte
   <img src="https://media.giphy.com/media/LMcB8XospGZoc8YQpm/giphy.gif" width="80" />
   
 </div>
-
-
-
-
