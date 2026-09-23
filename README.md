@@ -59,20 +59,7 @@ Informatics fresh graduate with a passion for building scalable systems and inte
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/feed/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-26A65B?style=for-the-badge&logo=firefox&logoColor=white)](https://www.linkedin.com/feed/)
   
-  <br/>
-  
-  *Open for collaborations & exciting opportunities!* 🤝
-  
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-green?style=flat-square" />
   
 </div>
 
 ---
-
-<div align="center">
-  
-  ### ⭐ If you like my projects, don't forget to give them a star!
-  
-  <img src="https://media.giphy.com/media/LMcB8XospGZoc8YQpm/giphy.gif" width="80" />
-  
-</div>
