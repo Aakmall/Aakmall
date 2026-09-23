@@ -50,12 +50,6 @@ Informatics fresh graduate with a passion for building scalable systems and inte
 
 ---
 
-## 📊 GitHub Stats
-
----
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
